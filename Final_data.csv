@@ -1,0 +1,269 @@
+PID,Age,Gender,TBSA_Burned,Burn_Depth,Burn_Location,Accident_Location,Burn_Cause,Other_Diseases,Itch_Report,Itch_Severity,Itch_Duration,Itch_Location,QoL_Score,Hospitalization_Duration
+P001,44,Male,19,Full-thickness,Upper Limbs,Work,Thermal,Cardiovascular,No,0.0,0.0,None,32.0,10.0
+P002,38,Male,4,Full-thickness,Upper Limbs,Other,Electrical,None,No,0.0,0.0,None,30.0,7.0
+P003,46,Male,11,Partial-thickness,Trunk,Work,Thermal,None,Yes,6.0,3.0,Trunk,62.0,2.0
+P004,55,Male,18,Partial-thickness,Upper Limbs,Work,Thermal,Diabetes,Yes,6.0,14.0,Upper Limbs,64.0,5.0
+P005,37,Male,14,Full-thickness,Trunk,Work,Thermal,None,Yes,6.0,14.0,Trunk,67.0,12.0
+P006,37,Male,33,Full-thickness,Upper Limbs;Trunk,Work,Thermal,None,Yes,10.0,17.0,Upper Limbs,80.0,13.0
+P007,55,Male,20,Partial-thickness,Upper Limbs,Home,Electrical,None,Yes,4.0,9.0,Upper Limbs,53.0,7.0
+P008,47,Male,6,Partial-thickness,Upper Limbs,Other,Electrical,None,Yes,5.0,12.0,Upper Limbs,50.0,2.0
+P009,35,Male,5,Partial-thickness,Trunk,Other,Thermal,None,No,0.0,0.0,None,26.0,2.0
+P010,45,Male,19,Partial-thickness,Upper Limbs;Trunk,Home,Electrical,None,Yes,6.0,11.0,Upper Limbs;Trunk,72.0,5.0
+P011,35,Male,4,Full-thickness,Upper Limbs;Trunk,Other,Thermal,None,Yes,6.0,8.0,Upper Limbs;Trunk,28.0,4.0
+P012,35,Male,17,Partial-thickness,Lower Limbs,Home,Chemical,None,Yes,9.0,9.0,Lower Limbs,59.0,2.0
+P013,42,Male,46,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,Renal,Yes,10.0,19.0,Lower Limbs;Trunk,103.0,11.0
+P014,20,Male,16,Full-thickness,Upper Limbs,Work,Thermal,None,Yes,6.0,3.0,Upper Limbs,49.0,7.0
+P015,22,Male,11,Partial-thickness,Upper Limbs,Home,Thermal,Renal,Yes,4.0,12.0,Upper Limbs,62.0,4.0
+P016,34,Male,19,Partial-thickness,Upper Limbs;Trunk,Other,Thermal,None,Yes,5.0,11.0,Upper Limbs;Trunk,58.0,4.0
+P017,29,Male,13,Full-thickness,Upper Limbs,Other,Thermal,None,Yes,8.0,7.0,Upper Limbs,52.0,11.0
+P018,43,Male,15,Full-thickness,Upper Limbs,Work,Thermal,None,No,0.0,0.0,None,27.0,12.0
+P019,30,Male,46,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,10.0,20.0,Lower Limbs;Trunk,97.0,12.0
+P020,25,Male,11,Partial-thickness,Upper Limbs,Home,Chemical,None,Yes,6.0,11.0,Upper Limbs,61.0,2.0
+P021,54,Male,50,Partial-thickness,Lower Limbs;Trunk,Work,Thermal,None,Yes,9.0,22.0,Lower Limbs;Trunk,95.0,15.0
+P022,37,Male,39,Partial-thickness,Lower Limbs;Trunk,Other,Thermal,None,No,0.0,0.0,None,41.0,10.0
+P023,40,Male,7,Partial-thickness,Lower Limbs,Work,Electrical,None,Yes,4.0,18.0,Lower Limbs,60.0,2.0
+P024,25,Male,5,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,4.0,14.0,Trunk,34.0,2.0
+P025,34,Male,5,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,None,No,0.0,0.0,None,44.0,2.0
+P026,41,Male,4,Partial-thickness,Lower Limbs,Work,Thermal,None,No,0.0,0.0,None,26.0,4.0
+P027,28,Male,5,Partial-thickness,Upper Limbs,Work,Chemical,Diabetes,Yes,5.0,13.0,Upper Limbs,47.0,6.0
+P028,43,Male,21,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,None,No,0.0,0.0,None,29.0,4.0
+P029,33,Male,5,Partial-thickness,Lower Limbs,Work,Thermal,None,Yes,4.0,13.0,Lower Limbs,53.0,3.0
+P030,37,Male,9,Partial-thickness,Upper Limbs,Work,Chemical,Renal,Yes,4.0,12.0,Upper Limbs,32.0,6.0
+P031,33,Male,31,Partial-thickness,Lower Limbs;Trunk,Other,Electrical,None,Yes,9.0,19.0,Lower Limbs;Trunk,86.0,5.0
+P032,58,Male,4,Full-thickness,Lower Limbs,Home,Thermal,None,Yes,4.0,5.0,Lower Limbs,55.0,10.0
+P033,39,Male,29,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,Renal,Yes,7.0,11.0,Upper Limbs;Trunk,82.0,11.0
+P034,29,Male,8,Full-thickness,Lower Limbs,Other,Thermal,None,Yes,4.0,6.0,Lower Limbs,64.0,7.0
+P035,48,Male,5,Full-thickness,Upper Limbs,Home,Chemical,None,Yes,5.0,3.0,Upper Limbs,50.0,8.0
+P036,27,Male,21,Partial-thickness,Lower Limbs;Trunk,Other,Thermal,None,Yes,5.0,11.0,Lower Limbs;Trunk,49.0,5.0
+P037,42,Male,18,Partial-thickness,Trunk,Work,Thermal,None,Yes,3.0,9.0,Trunk,56.0,4.0
+P038,20,Male,35,Partial-thickness,Lower Limbs;Trunk,Home,Electrical,None,Yes,5.0,9.0,Lower Limbs;Trunk,53.0,9.0
+P039,26,Male,23,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,9.0,21.0,Upper Limbs;Trunk,84.0,9.0
+P040,41,Male,28,Full-thickness,Upper Limbs;Trunk,Work,Thermal,None,Yes,7.0,11.0,Upper Limbs;Trunk,59.0,10.0
+P041,47,Male,8,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,5.0,10.0,Upper Limbs;Trunk,42.0,4.0
+P042,41,Male,6,Partial-thickness,Trunk,Work,Thermal,Renal,Yes,7.0,4.0,Trunk,57.0,4.0
+P043,38,Male,24,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,Hypertension,No,0.0,0.0,None,28.0,7.0
+P044,36,Male,28,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,None,Yes,7.0,11.0,Upper Limbs;Trunk,74.0,8.0
+P045,25,Male,50,Full-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,10.0,20.0,Lower Limbs;Trunk,109.0,16.0
+P046,32,Male,11,Partial-thickness,Lower Limbs,Other,Thermal,None,Yes,5.0,9.0,Lower Limbs,56.0,6.0
+P047,35,Male,10,Partial-thickness,Trunk,Other,Electrical,None,Yes,3.0,5.0,Trunk,35.0,6.0
+P048,50,Male,26,Full-thickness,Lower Limbs;Trunk,Other,Thermal,None,Yes,10.0,12.0,Trunk,61.0,8.0
+P049,43,Male,10,Full-thickness,Upper Limbs,Work,Electrical,None,No,0.0,0.0,None,39.0,12.0
+P050,22,Male,44,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,Hypertension,Yes,9.0,23.0,Trunk,96.0,13.0
+P051,43,Male,33,Partial-thickness,Upper Limbs;Lower Limbs,Work,Chemical,None,Yes,8.0,3.0,Upper Limbs;Lower Limbs,90.0,8.0
+P052,36,Male,12,Partial-thickness,Lower Limbs,Home,Chemical,None,Yes,6.0,14.0,Lower Limbs,52.0,2.0
+P053,33,Male,24,Partial-thickness,Upper Limbs;Lower Limbs,Home,Thermal,None,Yes,5.0,9.0,Upper Limbs,72.0,3.0
+P054,46,Male,25,Partial-thickness,Upper Limbs;Trunk,Home,Chemical,None,Yes,7.0,14.0,Upper Limbs,65.0,7.0
+P055,50,Male,5,Partial-thickness,Upper Limbs,Home,Chemical,Hypertension,Yes,3.0,7.0,Upper Limbs,34.0,2.0
+P056,49,Male,38,Partial-thickness,Lower Limbs;Trunk,Work,Thermal,Diabetes,Yes,7.0,14.0,Lower Limbs,72.0,10.0
+P057,31,Male,14,Partial-thickness,Upper Limbs,Work,Thermal,Diabetes,Yes,4.0,12.0,Upper Limbs,58.0,3.0
+P058,36,Male,30,Full-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,9.0,13.0,Lower Limbs;Trunk,74.0,12.0
+P059,43,Male,9,Partial-thickness,Upper Limbs,Home,Chemical,None,No,0.0,0.0,None,37.0,4.0
+P060,49,Male,37,Partial-thickness,Lower Limbs;Trunk,Other,Chemical,None,Yes,7.0,10.0,Lower Limbs;Trunk,81.0,7.0
+P061,35,Male,11,Partial-thickness,Trunk,Home,Chemical,None,Yes,5.0,13.0,Trunk,77.0,5.0
+P062,38,Male,4,Full-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,1.0,14.0,Upper Limbs;Trunk,27.0,5.0
+P063,28,Male,39,Partial-thickness,Lower Limbs;Trunk,Home,Chemical,Diabetes,Yes,7.0,22.0,Lower Limbs;Trunk,77.0,11.0
+P064,28,Male,5,Partial-thickness,Upper Limbs,Work,Thermal,None,No,0.0,0.0,None,26.0,2.0
+P065,48,Male,9,Full-thickness,Upper Limbs,Work,Thermal,None,Yes,6.0,6.0,Upper Limbs,62.0,9.0
+P066,53,Male,48,Full-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,9.0,24.0,Lower Limbs;Trunk,103.0,14.0
+P067,39,Male,49,Full-thickness,Upper Limbs;Trunk,Home,Thermal,None,No,0.0,0.0,None,40.0,18.0
+P068,50,Male,16,Partial-thickness,Lower Limbs,Work,Thermal,None,Yes,3.0,5.0,Lower Limbs,37.0,5.0
+P069,43,Male,18,Partial-thickness,Trunk,Work,Thermal,Renal,No,0.0,0.0,None,33.0,4.0
+P070,33,Male,12,Full-thickness,Trunk,Home,Thermal,Hypertension,Yes,5.0,11.0,Trunk,54.0,9.0
+P071,43,Male,9,Full-thickness,Upper Limbs,Other,Thermal,Renal,Yes,5.0,7.0,Upper Limbs,73.0,7.0
+P072,55,Male,9,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,1.0,8.0,Lower Limbs,26.0,3.0
+P073,39,Male,20,Partial-thickness,Lower Limbs,Home,Thermal,None,Yes,4.0,5.0,Lower Limbs,45.0,8.0
+P074,55,Male,24,Partial-thickness,Upper Limbs;Lower Limbs,Other,Thermal,None,No,0.0,0.0,None,32.0,7.0
+P075,18,Male,27,Full-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,9.0,13.0,Lower Limbs;Trunk,90.0,15.0
+P076,48,Male,27,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,Hypertension,Yes,7.0,9.0,Upper Limbs;Trunk,80.0,4.0
+P077,40,Male,5,Partial-thickness,Upper Limbs,Home,Thermal,None,Yes,6.0,5.0,Upper Limbs,47.0,4.0
+P078,37,Male,14,Partial-thickness,Trunk,Home,Thermal,None,Yes,4.0,9.0,Trunk,33.0,5.0
+P079,40,Male,4,Partial-thickness,Upper Limbs,Other,Thermal,None,Yes,2.0,2.0,Upper Limbs,29.0,2.0
+P080,20,Male,15,Partial-thickness,Trunk,Home,Thermal,None,No,0.0,0.0,None,26.0,4.0
+P081,37,Male,12,Partial-thickness,Upper Limbs,Other,Thermal,Diabetes,Yes,9.0,13.0,Upper Limbs,79.0,4.0
+P082,43,Male,36,Full-thickness,Lower Limbs;Trunk,Home,Chemical,None,Yes,7.0,20.0,Lower Limbs;Trunk,85.0,17.0
+P083,54,Male,10,Partial-thickness,Upper Limbs,Home,Thermal,None,Yes,4.0,9.0,Upper Limbs,50.0,7.0
+P084,34,Male,5,Partial-thickness,Lower Limbs,Home,Thermal,None,Yes,2.0,1.0,Lower Limbs,41.0,2.0
+P085,31,Male,6,Partial-thickness,Trunk,Work,Thermal,None,Yes,5.0,10.0,Trunk,35.0,2.0
+P086,34,Male,25,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,Diabetes,Yes,5.0,9.0,Upper Limbs;Trunk,58.0,10.0
+P087,49,Male,18,Partial-thickness,Lower Limbs,Other,Thermal,Hypertension,No,0.0,0.0,None,33.0,6.0
+P088,43,Male,5,Partial-thickness,Lower Limbs,Home,Thermal,Renal,Yes,2.0,5.0,Lower Limbs,38.0,2.0
+P089,34,Male,5,Partial-thickness,Trunk,Other,Thermal,Diabetes,Yes,5.0,13.0,Trunk,59.0,5.0
+P090,45,Male,22,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,9.0,8.0,Lower Limbs;Trunk,80.0,5.0
+P091,40,Male,5,Partial-thickness,Trunk,Other,Thermal,None,No,0.0,0.0,None,29.0,2.0
+P092,49,Male,29,Full-thickness,Upper Limbs;Lower Limbs,Work,Chemical,None,Yes,8.0,14.0,Upper Limbs;Lower Limbs,68.0,12.0
+P093,32,Male,22,Partial-thickness,Upper Limbs;Lower Limbs,Work,Chemical,None,Yes,4.0,12.0,Upper Limbs;Lower Limbs,52.0,6.0
+P094,36,Male,5,Full-thickness,Upper Limbs,Other,Chemical,Hypertension,Yes,6.0,5.0,Upper Limbs,28.0,11.0
+P095,36,Male,5,Partial-thickness,Lower Limbs,Work,Electrical,None,Yes,2.0,6.0,Lower Limbs,40.0,3.0
+P096,25,Male,50,Full-thickness,Upper Limbs;Trunk,Work,Thermal,Cardiovascular,Yes,8.0,21.0,Upper Limbs;Trunk,88.0,17.0
+P097,42,Male,11,Full-thickness,Lower Limbs,Home,Thermal,None,Yes,6.0,9.0,Lower Limbs,61.0,9.0
+P098,42,Male,10,Partial-thickness,Lower Limbs,Home,Thermal,None,Yes,4.0,10.0,Lower Limbs,40.0,5.0
+P099,40,Male,29,Partial-thickness,Lower Limbs;Trunk,Other,Thermal,None,Yes,6.0,15.0,Lower Limbs;Trunk,71.0,10.0
+P100,37,Male,48,Partial-thickness,Upper Limbs;Trunk,Work,Chemical,Hypertension,No,0.0,0.0,None,33.0,12.0
+P101,25,Male,50,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,None,No,0.0,0.0,None,42.0,13.0
+P102,35,Male,24,Full-thickness,Upper Limbs;Trunk,Home,Electrical,None,Yes,7.0,12.0,Upper Limbs;Trunk,62.0,12.0
+P103,36,Male,11,Full-thickness,Trunk,Home,Thermal,None,Yes,5.0,3.0,Trunk,41.0,11.0
+P104,31,Male,5,Full-thickness,Lower Limbs,Home,Electrical,None,Yes,7.0,5.0,Lower Limbs,56.0,9.0
+P105,38,Male,26,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,None,Yes,6.0,16.0,Upper Limbs;Trunk,85.0,4.0
+P106,44,Male,16,Full-thickness,Lower Limbs,Home,Thermal,Diabetes,Yes,5.0,8.0,Lower Limbs,55.0,8.0
+P107,58,Male,12,Full-thickness,Upper Limbs,Home,Thermal,None,Yes,5.0,12.0,Upper Limbs,41.0,13.0
+P108,41,Male,39,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,9.0,24.0,Upper Limbs;Trunk,88.0,7.0
+P109,42,Male,5,Partial-thickness,Trunk,Home,Thermal,None,No,0.0,0.0,None,30.0,4.0
+P110,39,Male,14,Full-thickness,Trunk,Work,Thermal,None,Yes,6.0,16.0,Trunk,69.0,7.0
+P111,20,Male,4,Partial-thickness,Upper Limbs,Home,Chemical,Diabetes,Yes,3.0,3.0,Upper Limbs,26.0,3.0
+P112,39,Male,13,Full-thickness,Lower Limbs,Work,Thermal,None,Yes,7.0,11.0,Lower Limbs,74.0,11.0
+P113,40,Male,4,Partial-thickness,Lower Limbs,Home,Thermal,None,Yes,3.0,9.0,Lower Limbs,26.0,3.0
+P114,64,Male,5,Full-thickness,Upper Limbs,Home,Thermal,None,Yes,4.0,7.0,Upper Limbs,51.0,2.0
+P115,38,Male,5,Partial-thickness,Lower Limbs;Trunk,Home,Chemical,Renal,Yes,3.0,3.0,Lower Limbs;Trunk,43.0,2.0
+P116,43,Male,19,Partial-thickness,Upper Limbs,Home,Thermal,Diabetes,Yes,7.0,13.0,Upper Limbs,58.0,3.0
+P117,39,Male,24,Partial-thickness,Upper Limbs;Lower Limbs,Home,Thermal,None,Yes,8.0,15.0,Upper Limbs;Lower Limbs,85.0,6.0
+P118,28,Male,17,Full-thickness,Lower Limbs,Home,Thermal,None,Yes,6.0,16.0,Lower Limbs,60.0,10.0
+P119,51,Male,50,Full-thickness,Lower Limbs;Trunk,Work,Thermal,None,Yes,9.0,21.0,Lower Limbs;Trunk,105.0,17.0
+P120,47,Male,11,Partial-thickness,Lower Limbs,Home,Thermal,Diabetes,No,0.0,0.0,None,26.0,5.0
+P121,47,Male,9,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,None,No,0.0,0.0,None,36.0,5.0
+P122,30,Male,34,Full-thickness,Upper Limbs;Trunk,Other,Thermal,None,No,0.0,0.0,None,46.0,20.0
+P123,54,Male,7,Partial-thickness,Upper Limbs;Trunk,Work,Chemical,None,Yes,5.0,7.0,Trunk,47.0,3.0
+P124,25,Male,50,Full-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,10.0,23.0,Upper Limbs;Trunk,112.0,14.0
+P125,45,Male,4,Partial-thickness,Trunk,Home,Thermal,None,No,0.0,0.0,None,34.0,5.0
+P126,61,Male,50,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,Diabetes,Yes,10.0,10.0,Upper Limbs;Trunk,106.0,5.0
+P127,30,Male,4,Partial-thickness,Upper Limbs,Home,Electrical,None,Yes,5.0,6.0,Upper Limbs,43.0,3.0
+P128,34,Male,37,Partial-thickness,Lower Limbs;Trunk,Other,Thermal,None,Yes,10.0,17.0,Lower Limbs;Trunk,94.0,15.0
+P129,40,Male,15,Full-thickness,Upper Limbs,Home,Chemical,None,Yes,7.0,18.0,Upper Limbs,53.0,8.0
+P130,34,Male,50,Partial-thickness,Upper Limbs;Lower Limbs,Home,Thermal,Renal,No,0.0,0.0,None,34.0,11.0
+P131,24,Male,5,Partial-thickness,Lower Limbs;Trunk,Work,Thermal,None,Yes,4.0,8.0,Lower Limbs;Trunk,30.0,5.0
+P132,40,Male,16,Full-thickness,Upper Limbs,Work,Thermal,Diabetes,Yes,6.0,16.0,Upper Limbs,70.0,9.0
+P133,29,Male,50,Partial-thickness,Upper Limbs;Lower Limbs,Work,Electrical,None,Yes,10.0,19.0,Upper Limbs;Lower Limbs,98.0,11.0
+P134,44,Male,15,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,5.0,9.0,Lower Limbs;Trunk,62.0,4.0
+P135,30,Female,18,Full-thickness,Upper Limbs,Home,Chemical,None,No,0.0,0.0,None,38.0,10.0
+P136,55,Female,21,Full-thickness,Lower Limbs;Trunk,Work,Chemical,None,Yes,6.0,6.0,Lower Limbs;Trunk,72.0,8.0
+P137,32,Female,13,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,5.0,9.0,Lower Limbs;Trunk,49.0,5.0
+P138,36,Female,18,Full-thickness,Upper Limbs,Home,Thermal,Diabetes,No,0.0,0.0,None,36.0,11.0
+P139,48,Female,17,Full-thickness,Trunk,Home,Thermal,None,Yes,7.0,10.0,Trunk,65.0,9.0
+P140,27,Female,38,Partial-thickness,Upper Limbs;Lower Limbs,Home,Thermal,None,Yes,8.0,12.0,Upper Limbs,90.0,11.0
+P141,42,Female,4,Partial-thickness,Lower Limbs;Trunk,Home,Chemical,None,Yes,1.0,3.0,Lower Limbs;Trunk,26.0,2.0
+P142,53,Female,8,Full-thickness,Upper Limbs;Lower Limbs,Home,Electrical,Renal,Yes,3.0,7.0,Upper Limbs;Lower Limbs,44.0,8.0
+P143,23,Female,49,Full-thickness,Lower Limbs;Trunk,Work,Thermal,Diabetes,Yes,9.0,19.0,Lower Limbs;Trunk,96.0,17.0
+P144,41,Female,37,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,None,Yes,10.0,21.0,Upper Limbs;Trunk,109.0,11.0
+P145,42,Female,13,Full-thickness,Upper Limbs;Trunk,Other,Chemical,Renal,Yes,4.0,13.0,Upper Limbs;Trunk,64.0,10.0
+P146,47,Female,18,Full-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,7.0,12.0,Upper Limbs;Trunk,84.0,12.0
+P147,27,Female,8,Partial-thickness,Lower Limbs,Home,Chemical,None,No,0.0,0.0,None,27.0,6.0
+P148,26,Female,7,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,Diabetes,Yes,4.0,7.0,Upper Limbs;Trunk,51.0,3.0
+P149,45,Female,13,Partial-thickness,Upper Limbs,Work,Thermal,Hypertension,Yes,7.0,8.0,Upper Limbs,53.0,4.0
+P150,42,Female,10,Full-thickness,Lower Limbs,Work,Thermal,None,Yes,6.0,10.0,Lower Limbs,53.0,5.0
+P151,42,Female,17,Partial-thickness,Upper Limbs,Home,Thermal,None,Yes,8.0,16.0,Upper Limbs,82.0,3.0
+P152,43,Female,5,Partial-thickness,Upper Limbs,Other,Thermal,None,Yes,5.0,10.0,Upper Limbs,43.0,2.0
+P153,33,Female,50,Full-thickness,Upper Limbs;Trunk,Home,Thermal,Cardiovascular,No,0.0,0.0,None,48.0,16.0
+P154,42,Female,50,Full-thickness,Lower Limbs;Trunk,Work,Thermal,None,No,0.0,0.0,None,37.0,17.0
+P155,42,Female,21,Partial-thickness,Upper Limbs;Lower Limbs,Work,Chemical,None,Yes,7.0,13.0,Upper Limbs,79.0,4.0
+P156,32,Female,15,Full-thickness,Trunk,Other,Chemical,None,No,0.0,0.0,None,34.0,5.0
+P157,58,Female,9,Partial-thickness,Upper Limbs,Work,Thermal,None,Yes,6.0,6.0,Upper Limbs,59.0,2.0
+P158,44,Female,29,Full-thickness,Upper Limbs;Trunk,Other,Thermal,None,Yes,7.0,19.0,Upper Limbs,73.0,16.0
+P159,28,Female,21,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,Cardiovascular,Yes,7.0,12.0,Upper Limbs;Trunk,63.0,7.0
+P160,46,Female,6,Partial-thickness,Trunk,Other,Thermal,None,No,0.0,0.0,None,29.0,3.0
+P161,30,Female,40,Full-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,8.0,16.0,Upper Limbs;Trunk,81.0,17.0
+P162,47,Female,29,Partial-thickness,Lower Limbs;Trunk,Other,Thermal,None,Yes,6.0,11.0,Lower Limbs;Trunk,76.0,8.0
+P163,51,Female,48,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,Hypertension,Yes,10.0,22.0,Upper Limbs;Trunk,93.0,9.0
+P164,31,Female,23,Full-thickness,Upper Limbs;Trunk,Other,Thermal,None,Yes,10.0,17.0,Upper Limbs;Trunk,97.0,10.0
+P165,49,Female,18,Full-thickness,Upper Limbs,Home,Thermal,None,Yes,6.0,15.0,Upper Limbs,65.0,11.0
+P166,44,Female,12,Full-thickness,Upper Limbs,Work,Thermal,Hypertension,No,0.0,0.0,None,32.0,4.0
+P167,48,Female,44,Full-thickness,Upper Limbs;Trunk,Work,Electrical,Hypertension,No,0.0,0.0,None,37.0,14.0
+P168,58,Female,34,Partial-thickness,Lower Limbs;Trunk,Work,Thermal,Hypertension,Yes,5.0,14.0,Trunk,66.0,10.0
+P169,37,Female,4,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,Cardiovascular,No,0.0,0.0,None,26.0,2.0
+P170,32,Female,4,Partial-thickness,Lower Limbs,Home,Thermal,None,Yes,1.0,2.0,Lower Limbs,26.0,2.0
+P171,31,Female,11,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,Diabetes,No,0.0,0.0,None,40.0,3.0
+P172,31,Female,28,Full-thickness,Upper Limbs;Lower Limbs,Home,Chemical,None,Yes,10.0,14.0,Upper Limbs;Lower Limbs,65.0,13.0
+P173,39,Female,50,Partial-thickness,Upper Limbs;Lower Limbs,Other,Thermal,Hypertension,Yes,10.0,17.0,Lower Limbs,92.0,11.0
+P174,43,Female,6,Partial-thickness,Lower Limbs,Home,Electrical,Diabetes,Yes,4.0,1.0,Lower Limbs,26.0,2.0
+P175,42,Female,17,Partial-thickness,Trunk,Other,Thermal,Diabetes,No,0.0,0.0,None,38.0,9.0
+P176,48,Female,11,Full-thickness,Lower Limbs,Home,Thermal,None,Yes,3.0,1.0,Lower Limbs,49.0,11.0
+P177,40,Female,50,Partial-thickness,Upper Limbs;Trunk,Home,Chemical,None,Yes,6.0,18.0,Trunk,84.0,15.0
+P178,54,Female,31,Partial-thickness,Upper Limbs;Lower Limbs,Work,Thermal,None,Yes,8.0,14.0,Upper Limbs;Lower Limbs,83.0,7.0
+P179,37,Female,31,Partial-thickness,Upper Limbs;Trunk,Work,Thermal,Renal,Yes,9.0,17.0,Upper Limbs,86.0,6.0
+P180,64,Female,13,Full-thickness,Upper Limbs;Lower Limbs,Home,Thermal,Cardiovascular,Yes,9.0,14.0,Upper Limbs;Lower Limbs,77.0,13.0
+P181,46,Female,12,Partial-thickness,Trunk,Work,Thermal,None,Yes,5.0,11.0,Trunk,35.0,4.0
+P182,31,Female,8,Full-thickness,Lower Limbs,Work,Chemical,None,No,0.0,0.0,None,30.0,11.0
+P183,29,Female,4,Full-thickness,Lower Limbs,Home,Thermal,None,Yes,5.0,6.0,Lower Limbs,39.0,7.0
+P184,44,Female,34,Partial-thickness,Upper Limbs;Trunk,Other,Thermal,Diabetes,Yes,7.0,18.0,Upper Limbs;Trunk,75.0,9.0
+P185,37,Female,29,Full-thickness,Upper Limbs;Trunk,Other,Thermal,Hypertension,Yes,8.0,19.0,Upper Limbs,82.0,11.0
+P186,47,Female,50,Full-thickness,Upper Limbs;Trunk,Work,Thermal,None,No,0.0,0.0,None,43.0,19.0
+P187,44,Female,50,Full-thickness,Lower Limbs;Trunk,Home,Thermal,None,No,0.0,0.0,None,32.0,14.0
+P188,39,Female,16,Partial-thickness,Upper Limbs,Work,Thermal,Hypertension,Yes,5.0,9.0,Upper Limbs,67.0,4.0
+P189,31,Female,25,Partial-thickness,Upper Limbs;Lower Limbs,Home,Thermal,Diabetes,Yes,9.0,7.0,Upper Limbs;Lower Limbs,58.0,10.0
+P190,24,Female,47,Full-thickness,Lower Limbs;Trunk,Home,Chemical,None,Yes,7.0,19.0,Lower Limbs;Trunk,95.0,14.0
+P191,35,Female,32,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,5.0,19.0,Upper Limbs;Trunk,68.0,7.0
+P192,48,Female,8,Full-thickness,Upper Limbs,Home,Thermal,None,No,0.0,0.0,None,26.0,12.0
+P193,42,Female,12,Full-thickness,Upper Limbs;Lower Limbs,Other,Chemical,None,Yes,7.0,11.0,Upper Limbs;Lower Limbs,55.0,11.0
+P194,27,Female,6,Full-thickness,Lower Limbs,Work,Thermal,None,Yes,8.0,6.0,Lower Limbs,47.0,8.0
+P195,41,Female,50,Partial-thickness,Lower Limbs;Trunk,Work,Thermal,None,Yes,10.0,22.0,Lower Limbs;Trunk,94.0,12.0
+P196,43,Female,17,Partial-thickness,Trunk,Home,Thermal,Hypertension,No,0.0,0.0,None,26.0,2.0
+P197,31,Female,7,Full-thickness,Upper Limbs,Home,Thermal,None,Yes,5.0,10.0,Upper Limbs,74.0,9.0
+P198,41,Female,20,Full-thickness,Lower Limbs;Trunk,Home,Thermal,Diabetes,Yes,6.0,14.0,Lower Limbs;Trunk,65.0,13.0
+P199,40,Female,18,Partial-thickness,Trunk,Other,Electrical,None,Yes,7.0,6.0,Trunk,60.0,8.0
+P200,28,Female,10,Full-thickness,Upper Limbs,Home,Thermal,None,No,0.0,0.0,None,35.0,10.0
+P201,43,Female,5,Full-thickness,Lower Limbs,Other,Thermal,None,Yes,4.0,5.0,Lower Limbs,37.0,4.0
+P202,45,Female,20,Partial-thickness,Upper Limbs;Trunk,Work,Chemical,None,Yes,7.0,13.0,Upper Limbs;Trunk,56.0,5.0
+P203,50,Female,15,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,Diabetes,Yes,8.0,11.0,Lower Limbs;Trunk,62.0,5.0
+P204,50,Female,26,Partial-thickness,Lower Limbs;Trunk,Work,Thermal,Renal,Yes,8.0,17.0,Lower Limbs,87.0,8.0
+P205,26,Female,15,Partial-thickness,Trunk,Home,Thermal,None,Yes,4.0,9.0,Trunk,63.0,3.0
+P206,30,Female,32,Partial-thickness,Lower Limbs;Trunk,Other,Electrical,None,Yes,9.0,9.0,Lower Limbs;Trunk,93.0,9.0
+P207,45,Female,16,Full-thickness,Upper Limbs;Lower Limbs,Other,Thermal,Hypertension,Yes,8.0,19.0,Upper Limbs;Lower Limbs,79.0,12.0
+P208,45,Female,16,Partial-thickness,Upper Limbs,Home,Thermal,None,Yes,6.0,10.0,Upper Limbs,78.0,4.0
+P209,45,Female,35,Partial-thickness,Lower Limbs;Trunk,Home,Thermal,None,Yes,6.0,13.0,Lower Limbs;Trunk,76.0,4.0
+P210,64,Female,11,Partial-thickness,Trunk,Work,Thermal,Diabetes,No,0.0,0.0,None,35.0,5.0
+P211,45,Female,6,Partial-thickness,Trunk,Other,Thermal,None,Yes,3.0,8.0,Trunk,54.0,5.0
+P212,51,Female,4,Full-thickness,Lower Limbs,Home,Thermal,None,No,0.0,0.0,None,33.0,7.0
+P213,49,Female,25,Partial-thickness,Upper Limbs;Trunk,Work,Chemical,None,Yes,9.0,13.0,Upper Limbs;Trunk,67.0,8.0
+P214,46,Female,18,Partial-thickness,Upper Limbs,Work,Thermal,Diabetes,Yes,6.0,7.0,Upper Limbs,64.0,3.0
+P215,36,Female,22,Full-thickness,Upper Limbs;Trunk,Work,Thermal,None,Yes,9.0,14.0,Upper Limbs;Trunk,95.0,13.0
+P216,47,Female,7,Partial-thickness,Upper Limbs,Home,Chemical,None,Yes,5.0,10.0,Upper Limbs,42.0,9.0
+P217,32,Female,6,Partial-thickness,Trunk,Work,Electrical,Diabetes,Yes,3.0,6.0,Trunk,44.0,2.0
+P218,37,Female,4,Partial-thickness,Lower Limbs,Other,Thermal,None,Yes,7.0,14.0,Lower Limbs,54.0,2.0
+P219,35,Female,10,Partial-thickness,Upper Limbs,Home,Thermal,Diabetes,Yes,6.0,10.0,Upper Limbs,46.0,5.0
+P220,40,Female,17,Partial-thickness,Upper Limbs;Lower Limbs,Home,Thermal,None,No,0.0,0.0,None,36.0,3.0
+P221,63,Female,11,Partial-thickness,Upper Limbs;Trunk,Other,Electrical,Renal,Yes,6.0,7.0,Trunk,62.0,2.0
+P222,21,Female,12,Partial-thickness,Lower Limbs;Trunk,Home,Electrical,None,No,0.0,0.0,None,40.0,7.0
+P223,46,Female,39,Full-thickness,Upper Limbs;Lower Limbs,Other,Thermal,None,Yes,9.0,13.0,Upper Limbs;Lower Limbs,103.0,12.0
+P224,23,Female,10,Partial-thickness,Upper Limbs,Home,Chemical,None,Yes,4.0,11.0,Upper Limbs,46.0,6.0
+P225,35,Female,14,Partial-thickness,Lower Limbs,Home,Thermal,None,Yes,5.0,5.0,Lower Limbs,63.0,2.0
+P226,50,Female,26,Full-thickness,Upper Limbs;Lower Limbs,Other,Thermal,Hypertension,Yes,8.0,8.0,Upper Limbs;Lower Limbs,58.0,9.0
+P227,40,Female,11,Partial-thickness,Trunk,Home,Thermal,Renal,Yes,6.0,15.0,Trunk,78.0,3.0
+P228,29,Female,18,Full-thickness,Upper Limbs,Work,Chemical,None,Yes,5.0,6.0,Upper Limbs,55.0,10.0
+P229,32,Female,33,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,8.0,14.0,Upper Limbs;Trunk,71.0,10.0
+P230,46,Female,48,Full-thickness,Upper Limbs;Trunk,Work,Chemical,Diabetes,Yes,9.0,14.0,Upper Limbs;Trunk,94.0,14.0
+P231,32,Female,6,Partial-thickness,Upper Limbs,Home,Chemical,Hypertension,Yes,4.0,6.0,Upper Limbs,51.0,7.0
+P232,42,Female,43,Partial-thickness,Lower Limbs;Trunk,Home,Chemical,None,No,0.0,0.0,None,34.0,11.0
+P233,40,Female,14,Partial-thickness,Lower Limbs,Other,Thermal,None,No,0.0,0.0,None,31.0,5.0
+P234,33,Female,8,Full-thickness,Lower Limbs,Home,Thermal,None,Yes,4.0,15.0,Lower Limbs,53.0,11.0
+P235,61,Female,13,Partial-thickness,Upper Limbs,Work,Thermal,None,Yes,5.0,16.0,Upper Limbs,64.0,4.0
+P236,46,Female,50,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,10.0,20.0,Upper Limbs;Trunk,105.0,11.0
+P237,19,Female,14,Partial-thickness,Upper Limbs,Work,Thermal,None,Yes,1.0,8.0,Upper Limbs,52.0,8.0
+P238,41,Female,9,Full-thickness,Upper Limbs,Home,Electrical,None,No,0.0,0.0,None,26.0,10.0
+P239,33,Female,19,Partial-thickness,Upper Limbs;Trunk,Other,Thermal,Diabetes,Yes,5.0,14.0,Trunk,63.0,4.0
+P240,48,Female,8,Full-thickness,Upper Limbs;Lower Limbs,Home,Thermal,None,Yes,6.0,10.0,Upper Limbs;Lower Limbs,45.0,9.0
+P241,32,Female,5,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,5.0,6.0,Upper Limbs;Trunk,50.0,3.0
+P242,38,Female,6,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,6.0,11.0,Upper Limbs;Trunk,36.0,2.0
+P243,45,Female,6,Partial-thickness,Trunk,Home,Thermal,None,Yes,4.0,4.0,Trunk,36.0,2.0
+P244,48,Female,6,Partial-thickness,Lower Limbs,Work,Thermal,None,No,0.0,0.0,None,30.0,4.0
+P245,27,Female,6,Partial-thickness,Upper Limbs,Home,Electrical,None,Yes,7.0,7.0,Upper Limbs,29.0,2.0
+P246,36,Female,19,Partial-thickness,Lower Limbs,Other,Thermal,None,Yes,5.0,16.0,Lower Limbs,57.0,3.0
+P247,35,Female,7,Full-thickness,Lower Limbs,Home,Electrical,None,No,0.0,0.0,None,43.0,8.0
+P248,33,Female,10,Partial-thickness,Upper Limbs,Home,Chemical,None,Yes,5.0,12.0,Upper Limbs,34.0,7.0
+P249,57,Female,38,Partial-thickness,Upper Limbs;Lower Limbs,Work,Thermal,None,Yes,6.0,14.0,Upper Limbs;Lower Limbs,69.0,10.0
+P250,44,Female,13,Partial-thickness,Lower Limbs,Work,Electrical,Hypertension,Yes,3.0,12.0,Lower Limbs,61.0,3.0
+P251,27,Female,20,Partial-thickness,Upper Limbs,Home,Thermal,None,Yes,8.0,9.0,Upper Limbs,62.0,7.0
+P252,49,Female,6,Partial-thickness,Upper Limbs,Home,Chemical,Hypertension,No,0.0,0.0,None,34.0,6.0
+P253,61,Female,7,Partial-thickness,Trunk,Home,Thermal,None,Yes,4.0,10.0,Trunk,63.0,3.0
+P254,50,Female,4,Partial-thickness,Upper Limbs,Work,Chemical,None,No,0.0,0.0,None,27.0,2.0
+P255,24,Female,6,Full-thickness,Upper Limbs;Trunk,Work,Chemical,None,Yes,6.0,9.0,Upper Limbs;Trunk,70.0,10.0
+P256,35,Female,8,Full-thickness,Lower Limbs,Home,Chemical,None,No,0.0,0.0,None,35.0,7.0
+P257,52,Female,6,Partial-thickness,Lower Limbs,Other,Chemical,Diabetes,Yes,3.0,11.0,Lower Limbs,54.0,5.0
+P258,32,Female,5,Partial-thickness,Lower Limbs,Other,Thermal,Diabetes,No,0.0,0.0,None,26.0,2.0
+P259,44,Female,5,Full-thickness,Upper Limbs;Trunk,Work,Thermal,Diabetes,Yes,5.0,4.0,Upper Limbs;Trunk,56.0,7.0
+P260,47,Female,13,Partial-thickness,Lower Limbs,Other,Thermal,None,No,0.0,0.0,None,35.0,4.0
+P261,30,Female,7,Partial-thickness,Trunk,Home,Thermal,None,Yes,5.0,3.0,Trunk,45.0,4.0
+P262,39,Female,10,Partial-thickness,Lower Limbs,Home,Thermal,None,Yes,2.0,8.0,Lower Limbs,52.0,5.0
+P263,18,Female,14,Full-thickness,Upper Limbs,Home,Thermal,None,No,0.0,0.0,None,35.0,12.0
+P264,29,Female,21,Full-thickness,Upper Limbs;Trunk,Home,Electrical,None,Yes,6.0,18.0,Upper Limbs;Trunk,67.0,12.0
+P265,37,Female,4,Partial-thickness,Trunk,Work,Thermal,None,No,0.0,0.0,None,26.0,4.0
+P266,27,Female,28,Partial-thickness,Upper Limbs;Trunk,Other,Chemical,None,Yes,6.0,9.0,Upper Limbs;Trunk,68.0,11.0
+P267,56,Female,18,Partial-thickness,Upper Limbs;Trunk,Home,Thermal,None,Yes,6.0,3.0,Upper Limbs;Trunk,42.0,9.0
+P268,25,Female,5,Full-thickness,Upper Limbs;Trunk,Home,Chemical,Diabetes,Yes,6.0,8.0,Upper Limbs;Trunk,62.0,10.0

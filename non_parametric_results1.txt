@@ -1,0 +1,60 @@
+Test	Statistic	p-value	Interpretation
+Mann-Whitney U Test (Gender vs Age)	8317.0	0.2976	Not Significant
+Mann-Whitney U Test (Gender vs TBSA_Burned)	8963.5	0.9824	Not Significant
+Mann-Whitney U Test (Gender vs Itch_Severity)	9156.5	0.7768	Not Significant
+Mann-Whitney U Test (Gender vs Itch_Duration)	9448.5	0.4559	Not Significant
+Mann-Whitney U Test (Gender vs QoL_Score)	8809.0	0.7905	Not Significant
+Mann-Whitney U Test (Gender vs Hospitalization_Duration)	8460.0	0.4129	Not Significant
+Mann-Whitney U Test (Burn_Depth vs Age)	7919.0	0.718	Not Significant
+Mann-Whitney U Test (Burn_Depth vs TBSA_Burned)	8725.5	0.3302	Not Significant
+Mann-Whitney U Test (Burn_Depth vs Itch_Severity)	8994.5	0.152	Not Significant
+Mann-Whitney U Test (Burn_Depth vs Itch_Duration)	8300.0	0.7872	Not Significant
+Mann-Whitney U Test (Burn_Depth vs QoL_Score)	9000.0	0.1534	Not Significant
+Mann-Whitney U Test (Burn_Depth vs Hospitalization_Duration)	13971.5	0.0	Significant
+Mann-Whitney U Test (Itch_Report vs Age)	6410.5	0.7478	Not Significant
+Mann-Whitney U Test (Itch_Report vs TBSA_Burned)	5514.0	0.1697	Not Significant
+Mann-Whitney U Test (Itch_Report vs Itch_Severity)	0.0	0.0	Significant
+Mann-Whitney U Test (Itch_Report vs Itch_Duration)	0.0	0.0	Significant
+Mann-Whitney U Test (Itch_Report vs QoL_Score)	972.0	0.0	Significant
+Mann-Whitney U Test (Itch_Report vs Hospitalization_Duration)	6309.5	0.8958	Not Significant
+Kruskal-Wallis H Test (PID vs Age)	267.0	0.4885	Not Significant
+Kruskal-Wallis H Test (PID vs TBSA_Burned)	267.0	0.4885	Not Significant
+Kruskal-Wallis H Test (PID vs Itch_Severity)	267.0	0.4885	Not Significant
+Kruskal-Wallis H Test (PID vs Itch_Duration)	267.0	0.4885	Not Significant
+Kruskal-Wallis H Test (PID vs QoL_Score)	267.0	0.4885	Not Significant
+Kruskal-Wallis H Test (PID vs Hospitalization_Duration)	267.0	0.4885	Not Significant
+Kruskal-Wallis H Test (Burn_Location vs Age)	3.497	0.6238	Not Significant
+Kruskal-Wallis H Test (Burn_Location vs TBSA_Burned)	104.5118	0.0	Significant
+Kruskal-Wallis H Test (Burn_Location vs Itch_Severity)	48.335	0.0	Significant
+Kruskal-Wallis H Test (Burn_Location vs Itch_Duration)	36.688	0.0	Significant
+Kruskal-Wallis H Test (Burn_Location vs QoL_Score)	55.7529	0.0	Significant
+Kruskal-Wallis H Test (Burn_Location vs Hospitalization_Duration)	48.1851	0.0	Significant
+Kruskal-Wallis H Test (Accident_Location vs Age)	6.7447	0.0343	Significant
+Kruskal-Wallis H Test (Accident_Location vs TBSA_Burned)	3.0321	0.2196	Not Significant
+Kruskal-Wallis H Test (Accident_Location vs Itch_Severity)	0.7818	0.6764	Not Significant
+Kruskal-Wallis H Test (Accident_Location vs Itch_Duration)	0.4626	0.7935	Not Significant
+Kruskal-Wallis H Test (Accident_Location vs QoL_Score)	2.8285	0.2431	Not Significant
+Kruskal-Wallis H Test (Accident_Location vs Hospitalization_Duration)	0.4534	0.7972	Not Significant
+Kruskal-Wallis H Test (Burn_Cause vs Age)	2.0167	0.3648	Not Significant
+Kruskal-Wallis H Test (Burn_Cause vs TBSA_Burned)	2.8786	0.2371	Not Significant
+Kruskal-Wallis H Test (Burn_Cause vs Itch_Severity)	0.9503	0.6218	Not Significant
+Kruskal-Wallis H Test (Burn_Cause vs Itch_Duration)	1.3503	0.5091	Not Significant
+Kruskal-Wallis H Test (Burn_Cause vs QoL_Score)	1.5324	0.4648	Not Significant
+Kruskal-Wallis H Test (Burn_Cause vs Hospitalization_Duration)	1.0556	0.5899	Not Significant
+Kruskal-Wallis H Test (Other_Diseases vs Age)	5.6238	0.2291	Not Significant
+Kruskal-Wallis H Test (Other_Diseases vs TBSA_Burned)	3.655	0.4547	Not Significant
+Kruskal-Wallis H Test (Other_Diseases vs Itch_Severity)	0.2943	0.9902	Not Significant
+Kruskal-Wallis H Test (Other_Diseases vs Itch_Duration)	0.6931	0.9522	Not Significant
+Kruskal-Wallis H Test (Other_Diseases vs QoL_Score)	1.3313	0.856	Not Significant
+Kruskal-Wallis H Test (Other_Diseases vs Hospitalization_Duration)	4.9021	0.2975	Not Significant
+Kruskal-Wallis H Test (Itch_Location vs Age)	5.9611	0.4276	Not Significant
+Kruskal-Wallis H Test (Itch_Location vs TBSA_Burned)	53.406	0.0	Significant
+Kruskal-Wallis H Test (Itch_Location vs Itch_Severity)	169.4771	0.0	Significant
+Kruskal-Wallis H Test (Itch_Location vs Itch_Duration)	155.1661	0.0	Significant
+Kruskal-Wallis H Test (Itch_Location vs QoL_Score)	128.2767	0.0	Significant
+Kruskal-Wallis H Test (Itch_Location vs Hospitalization_Duration)	36.7321	0.0	Significant
+Spearman’s Rank Correlation (QoL_Score vs Age)	0.0125	0.8389	Weak Correlation
+Spearman’s Rank Correlation (QoL_Score vs TBSA_Burned)	0.6199	0.0	Strong Correlation
+Spearman’s Rank Correlation (QoL_Score vs Itch_Severity)	0.8357	0.0	Strong Correlation
+Spearman’s Rank Correlation (QoL_Score vs Itch_Duration)	0.7888	0.0	Strong Correlation
+Spearman’s Rank Correlation (QoL_Score vs Hospitalization_Duration)	0.4051	0.0	Moderate Correlation
